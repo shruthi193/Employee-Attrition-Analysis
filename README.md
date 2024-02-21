@@ -13,15 +13,21 @@ Data is fictional and can result in a very low accuracy score- we will then opt 
 There is no Time-Series data for the attrition of employees which will result in some deviation.
 Contents
 Correlation Heatmap - to explain the relation in various parameters
+
 Project Report - tracking the status and lifecycle of project
+
 Employee Attrition Predictor - IPython notebook
-HR-Employee-Attrition - Data file taken from https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+HR-Employee-Attrition - Data file taken from https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 Visualization plots are added in file Visualization
+
 Algorithms used
 Logistic Regression
 Random Forest
 Encoder used
 Label Encoder
 One Hot Encoder
+
 Note:
 I welcome any suggestions or recommendation to make this project better. Also I am working on the visualization part too.
