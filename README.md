@@ -18,7 +18,7 @@ Project Report - tracking the status and lifecycle of project
 
 Employee Attrition Predictor - IPython notebook
 
-HR-Employee-Attrition - Data file taken from https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 
 Visualization plots are added in file Visualization
 
